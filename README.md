@@ -18,6 +18,7 @@ Prohibited substances for sportspersons
 # Live Link/ Demo Link:
 This site was built using [GitHub Pages](https://yashrajv17.github.io/gym_website/)
 
+# Desktop view screeshot of Project
 ![Desktop View of Project](https://user-images.githubusercontent.com/91608542/161697361-d24668bf-6c63-41fe-968a-d4588cbd47ff.png)
 
 # Introduction
@@ -46,4 +47,8 @@ Athletes may have illnesses or conditions that require them to take medications 
 5. Aggressive Behavior.
 
 6. Tumour.
+
+# Modules Implementation:
+  - A modular approach of making Front-End Application
+![Module implementation](https://user-images.githubusercontent.com/91608542/161703991-d31d6151-1764-41ab-88d6-1e331961f581.png)
 
