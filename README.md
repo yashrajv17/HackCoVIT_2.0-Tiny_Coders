@@ -13,7 +13,7 @@ This site was built using [GitHub Pages](https://yashrajv17.github.io/gym_websit
 
 # Introduction
 
--  What is prohibited substance How does it affect the sports person's performance?
+-  upperCase("What is prohibited substance How does it affect the sports person's performance?")
 
 The narcotics prohibited in sports are those derived from morphine and its chemical and pharmacological analogues. These substances act on central nervous system and reduce pain feeling.
  - Harmful Effects of Doping:
