@@ -17,7 +17,7 @@ This site was built using [GitHub Pages](https://yashrajv17.github.io/gym_websit
 
 The narcotics prohibited in sports are those derived from morphine and its chemical and pharmacological analogues. These substances act on central nervous system and reduce pain feeling.
  - Harmful Effects of Doping:
- - 
+  
 SIDE EFFECTS OF PROHIBITED SUBSTANCES AND METHODS:
 
 These are the substances that have both anabolic and androgenic properties. ‘Anabolic’ means ‘tissue building’ and ‘androgenic’ means ‘masculinizing’.
@@ -25,4 +25,15 @@ These are the substances that have both anabolic and androgenic properties. ‘A
 
 Athletes may have illnesses or conditions that require them to take medications or undergo procedures. If the medication or method an athlete is required to use to treat an illness or condition is prohibited as per the World Anti-Doping Agency’s (WADA) Prohibited List.
 
+ - General Side Effects:
+1. Greasy Skin and Acne
 
+2. Infertility
+
+3. Hypertension
+
+4. Liver and kidney Dysfunction
+
+5. Aggressive Behavior.
+
+6. Tumour.
