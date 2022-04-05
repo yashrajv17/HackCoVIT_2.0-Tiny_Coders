@@ -49,6 +49,8 @@ Athletes may have illnesses or conditions that require them to take medications 
 6. Tumour.
 
 # Modules Implementation:
+
   - A modular approach of making Front-End Application
+  
 ![Module implementation](https://user-images.githubusercontent.com/91608542/161703991-d31d6151-1764-41ab-88d6-1e331961f581.png)
 
