@@ -1,4 +1,7 @@
-# HackCoVIT_2.0-Tiny_Coders
+# HackCoVIT 2.0
+
+# Team Name: Tiny Coders
+# Team Lead: Yashraj Vishwanath
 
 # Project Title:
 Prohibited substances for sportspersons
