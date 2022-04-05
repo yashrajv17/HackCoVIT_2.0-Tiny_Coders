@@ -4,6 +4,6 @@
 Prohibited substances for sportspersons
 
 # Live Link/ Demo Link:
-https://yashrajv17.github.io/gym_website/ (Hosted on GitHub)
+This site was built using [GitHub Pages](https://yashrajv17.github.io/gym_website/)
 
 
