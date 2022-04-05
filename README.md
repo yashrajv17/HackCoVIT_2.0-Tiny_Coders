@@ -123,5 +123,32 @@ Athletes may have illnesses or conditions that require them to take medications 
 
 # Installation Guide:
 
+ - ***Steps for cloning this project:***
+    - ***Cloning into other Repository in another account:***
+      - Then add in files of design (HTML and CSS), Interaction of website (JavaScript and its Frameworks).
+      - Add in files as index.html for HTML, style.css for CSS, main.js for JavaScript (which contains its React.js Components and also Node.js, Express.js Tools).
+      - After adding all the neccesary files link them around the files of html,css and js.
+      - Then move to Pages section on settings, which is located in "Code and automation" of General Settings of that particular Code.  
+      - In Source section change the source to Main from None.   
+      - Then choose a theme for the page.
+      - After its done a link will be generated above where the site will be visible deployed on github.
 
-# Youtube video link:
+ - ***Libraries and Frameworks for making of web application:***
+     - ***Below will be Frameworks/ libraries of JavaScript:***
+              
+           1.React.js
+           2.Express.js
+           3.Node.js
+           4.Vue.js
+      
+     - ***Below are Databases and Structure of Back-End Implementation:***
+        
+           1.MySQL
+           2.php
+           3.MongoDB
+           4.Firebase
+           5.Quasar Framework
+           
+
+# Youtube video link: 
+  > https://www.youtube.com/watch?v=OohqH_Aze3M
